@@ -11,7 +11,7 @@
 <br />
 
 
-Hi, I'm <b>Myroslav Shkribyak</b>, a <b>Back-End Developer</b> 🚀 from Ukraine.
+Hi, I'm <b>Myroslav Shkriblyak</b>, a <b>Back-End Developer</b> 🚀 from Ukraine.
 
 
 **Languages and Tools:**
